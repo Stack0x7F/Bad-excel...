@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+~$*.xlsx
+~$*.xls
+*.tmp
+venv/
+.vscode/
+.DS_Store
+Thumbs.db
